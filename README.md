@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris Lima</h1>
 <h3 align="center">Computer/Software engineering professor at Inatel.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislima&label=Profile%20views&color=0e75b6&style=flat" alt="chrislima" /> </p>
-
 - 📝 Article 1: [A Systematic Review Based on Earned Value Management and Quality](https://link.springer.com/chapter/10.1007/978-3-030-14070-0_20)
 
 - 📝 Article 2: [A Proposal to Improve the Earned Value Management Technique Using Quality Data in Software Projects](https://link.springer.com/chapter/10.1007/978-3-030-14070-0_84)
