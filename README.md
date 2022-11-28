@@ -11,8 +11,6 @@
 
 - ⚡ Lattes: **https://lattes.cnpq.br/4324264972796339**
 
-- [www.inatel.br](www.inatel.br)
-
 
 
 <h3 align="left">Connect with me:</h3>
